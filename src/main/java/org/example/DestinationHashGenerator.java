@@ -11,7 +11,7 @@ import java.util.Random;
 public class DestinationHashGenerator {
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: java -jar DestinationHashGenerator.jar 240340120131 C:\Users\piyus\Downloads\New folder (4)\BajajFinservHealthAssesment/example.json");
+            System.out.println("Usage: java -jar DestinationHashGenerator.jar 240340120131 C:\Users\piyus\Desktop\BajajFinservHealthAssesment/example.json");
             return;
         }
 
